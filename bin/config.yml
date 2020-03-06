@@ -1,0 +1,19 @@
+# ChatPro [Config.yml]
+Messages:
+  Format: '%prefix%%player%%suffix%&8: &f%message%'
+  Prefix: '&8[&eServerName&8]'
+  No-Permission: '{prefix} &cYou do not have permission!'
+  PlayerEvents:
+    Join-Msg:
+      join: 'true'
+    Leave-Msg:
+      leave: 'true'
+    FirstJoin-Msg: '&6&lNEW &eEveryone Welcome &6%player%&e! &8(&6&l#&6%playercount%&8)'
+      firstjoin: 'true'
+  StaffChat:
+    Format: '&b(StaffChat) %prefix%&f%player%&3: &f%message%'
+    Chat-Symbol: '#'
+  ChatLock:
+    Enabled: '{prefix} &cChat has been locked by &4%sender%'
+    Disabled: '{prefix} &aChat has been un-locked by &4%sender%'
+    Locked: '{prefix} &cYou may not talk whilst chat is locked.'

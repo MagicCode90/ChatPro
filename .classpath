@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Tiger/Desktop/Eclipse Spigot &amp; Bukkit Jars/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tiger/Downloads/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Tiger/Downloads/LuckPerms-Bukkit-5.0.72 (2).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
